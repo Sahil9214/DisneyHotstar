@@ -1,0 +1,409 @@
+{
+  "MoviesNotToMiss": [
+    {
+      "id": 1,
+      "name": "Avatar",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/54/Avatar_The_Way_of_Water_poster.jpg",
+      "reviews": "8000",
+      "rating": "4.5",
+      "director": "James Cameron",
+
+      "Realeased Date": "December 6, 2022 (London)December 16, 2022 (United States)",
+      "Country": "United States",
+      "plot":"On the lush alien world of Pandora live the Na'vi, beings who appear primitive but are highly evolved. Because the planet's environment is poisonous, human/Na'vi hybrids, called Avatars, must link to human minds to allow for free movement on Pandora. Jake Sully (Sam Worthington), a paralyzed former Marine, becomes mobile again through one such Avatar and falls in love with a Na'vi woman (Zoe Saldana). As a bond with her grows, he is drawn into a battle for the survival of her world.",
+      "Language": "English"
+    },
+    {
+      "id": 2,
+      "name": "Veera Simha Reddy",
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/61/Veera_Simha_Reddy_poster.jpg",
+      "reviews": "4000",
+      "rating": "5.0",
+      "director": "Gopichand Malineni",
+
+      "Realeased Date": "12 January",
+      "Country": "India",
+      "plot":"Jai stays in Istanbul with his mother and love interest. Meanwhile in Rayalaseema, Veerasimha Reddy rules his region and people in a prosperous way. It is a story about how Jai fulfils his father's wish in Rayalaseema.",
+      "Language": "Telgu"
+    },
+    {
+      "id": 3,
+      "name": "Sembi",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c4/Sembi_poster.jpg",
+      "reviews": "3000",
+      "rating": "4.5",
+      "director": "Prabhu Solomon",
+
+      "Realeased Date": "December 2022 30",
+      "Country": "India",
+      "plot":"A bus called Anbu narrates the stories of its 24 passengers, giving a glimpse into their journey from Kodaikanal to Dindigul. Kovai Sarala and her granddaughter live a happy life, but they get trapped by the police. A well-educated young man helps the disadvantaged and unintentionally makes an enemy.",
+      "Language": "Tamil"
+    },
+    {
+      "id": 5,
+      "name": "RRR",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/RRR_Poster.jpg",
+      "reviews": "7000",
+      "rating": "5.0",
+      "director": "S S Rajamoli",
+
+      "Realeased Date": "March 2022 22",
+      "Country": "India",
+      "plot":"A fictitious story about two legendary revolutionaries and their journey away from home before they started fighting for their country in the 1920s.",
+      "Language": "Telgu"
+    },
+    {
+      "id": 4,
+      "name": "Govinda Naam Mera",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/cd/Govinda_Naam_Mera_poster.jpg",
+      "reviews": "3000",
+      "rating": "3",
+      "director": "Shashank Khaitan",
+
+      "Realeased Date": "December 2022 16",
+      "Country": "India",
+      "plot":"The very charming Govinda Waghmare juggles his time and love between his wife Mrs. Waghmare and his girlfriend in this dose of chaos, confusion, and laughter.",
+      "Language": "Hindi"
+    },
+    {
+      "id": 6,
+      "name": " Doctor Strange in the Multiverse of Madness",
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/17/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpg",
+      "reviews": "12000",
+      "rating": "4.0",
+      "director": "Sam Raimi",
+
+      "Realeased Date": "May 2, 2022 (Dolby Theatre) May 6, 2022 (United States)",
+      "Country": "United State",
+      "plot":"Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse. They seek help from Wanda the Scarlet Witch, Wong and others.",
+      "Language": "English"
+    },
+    {
+      "id": 7,
+      "name": "Vikram",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Vikram_2022_poster.jpg",
+      "reviews": "2000",
+      "rating": "4.0",
+      "director": "Lokesh Kanagaraj",
+
+      "Realeased Date": "june 3, 2022",
+      "Country": "India",
+      "Language": "Tamil"
+    },
+    {
+      "id": 8,
+      "name": "Liger",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/24/Liger_film_poster.jpg",
+      "reviews": "2000",
+      "rating": "2.0",
+      "director": "Puri Jagannadh",
+
+      "Realeased Date": "August 22, 2022",
+      "Country": "India",
+      "plot":"A bravehearted Liger works his way up to find his dream spot in the MMA world, but his life gets complicated when he crosses paths with Taniya.",
+      "Language": "Telgu"
+    },
+    {
+      "id": 9,
+      "name": "Thor",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/95/Thor_%28film%29_poster.jpg",
+      "reviews": "2000",
+      "rating": "4.0",
+      "director": "Kenneth Branagh",
+
+      "Realeased Date": "April 17, 2011 (Sydney)May 6, 2011 (United States)",
+      "Country": "United State",
+      "Language": "English"
+    },
+    {
+      "id": 11,
+      "name": "Cutputlli",
+      "image": "https://upload.wikimedia.org/wikipedia/en/7/76/Cuttputlli_film.jpeg",
+      "reviews": "OTT",
+      "rating": "3.5",
+      "director": "Ranjit M. Tewari",
+
+      "Realeased Date": "2 September 2022",
+      "Country": "India",
+      "plot":"When a small town gets plunged into the nightmare of serial killings, rookie cop Arjan embarks on a chase for the truth and unravels a gruesome conspiracy.",
+      "Language": "Hindi"
+    },
+    {
+      "id": 12,
+      "name": "Monster Hunter",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/ec/Monster_Hunter_Film_Poster.jpg",
+      "reviews": "1000",
+      "rating": "4.0",
+      "director": "Paul W. S. Anderson",
+
+      "Realeased Date": "December 3, 2020 (Netherlands)[3]December 4, 2020 (China)December 18, 2020 (United States)March 26, 2021 (Japan)",
+      "Country": "United State,China,Japan,Germany",
+      "plot":"Behind our world, there is another -- a world of dangerous and powerful monsters that rule their domain with deadly ferocity. When Lt. Artemis and her loyal soldiers are transported from our world to the new one, the unflappable lieutenant receives the shock of her life. In a desperate battle for survival against enormous enemies with incredible powers and unstoppable, terrifying attacks, Artemis teams up with a mysterious hunter who has found a way to fight back.",
+      "Language": "English"
+    },
+    {
+      "id": 13,
+      "name": "83",
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/69/83_film_poster.jpg",
+      "reviews": "OTT",
+      "rating": "4.0",
+      "director": "Kabir Khan",
+
+      "Realeased Date": "!5 december 2022",
+      "Country": "India",
+      "plot":"Cricketer Kapil Dev gets an opportunity to make his country famous on the world stage when he captains the Indian national cricket team at the 1983 Cricket World Cup.",
+      "Language": "English,Hindi"
+    },
+    
+   
+    {
+      "id": 14,
+      "name": "Rudra",
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/69/83_film_poster.jpg",
+      "reviews": "OTT",
+      "rating": "2.0",
+      "director": "Sameer Nair",
+
+      "Realeased Date": "4 March 2022",
+      "Country": "India",
+      "plot":"Ignoring her misgivings, a young woman purchases a vintage car that seems to have a mind of its own. Further investigation reveals that it is possessed by a vengeful spirit with ties to her past.",
+      "Language": "Hindi"
+    },
+    {
+      "id": 15,
+      "name": "Taza Khabar",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/05/Taaza_Khabar_hotstar_poster.jpg",
+      "reviews": "4000",
+      "rating": "4.0",
+      "director": "Himank Gaur",
+
+      "Realeased Date": "5 January 2023",
+      "Country": "India",
+      "plot":"A Sanitation worker, how he stumbles upon magical powers which leads to a riveting new ride for the man, and how it stirs his humble life.",
+      "Language": "Hindi"
+    },
+    
+    {
+      "id": 17,
+      "name": "Super 30",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/29/Super_30_The_Film.jpg",
+      "reviews": "4000",
+      "rating": "5.0",
+      "director": "Vikas Bahl",
+
+      "Realeased Date": "12 July 2019",
+      "Country": "India",
+      "plot":"Based on the life of Patna-based mathematician Anand Kumar who runs the famed Super 30 program for IIT aspirants in Patna.",
+      "Language": "Hindi"
+    },
+    {
+      "id": 18,
+      "name": "M.S Dhoni :The UnTold Story",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/33/M.S._Dhoni_-_The_Untold_Story_poster.jpg",
+      "reviews": "7000",
+      "rating": "4.0",
+      "director": "Neeraj Pandey",
+
+      "Realeased Date": " 30 September 2016",
+      "Country": "India",
+      "plot":"M S Dhoni, a boy from Ranchi, aspires to play cricket for India. Though he initially tries to please his father by working for the Indian Railways, he ultimately decides to chase his dreams.",
+      "Language": "Hindi"
+    },
+    {
+      "id": 19,
+      "name": "Bhaag Milkha",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/42/Bhaag_Milkha_Bhaag_poster.jpg",
+      "reviews": "3000",
+      "rating": "5.0",
+      "director": "Rakeysh Omprakash Mehra",
+
+      "Realeased Date": "12 july 2013",
+      "Country": "India",
+      "plot":"The truth behind the ascension of Milkha Singh, who was scarred by of the India-Pakistan partition.The true story of the Flying Sikh - world champion runner and Olympian Milkha Singh -- who overcame the massacre of his family, civil war during the India-Pakistan partition, and homelessness to become one of India's most iconic athletes.",
+      "Language": "Hindi"
+    },
+    {
+      "id": 20,
+      "name": "The Simpsons",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/375px-The_Simpsons_yellow_logo.svg.png",
+      "reviews": "4000",
+      "rating": "4.0",
+      
+      "director": "Sam Simson James LBookes",
+
+      "Realeased Date": "17december 1989",
+      "Country": "United State",
+      "Language": "English",
+      "plot":"The series is a satirical depiction of American life, epitomized by the Simpson family, which consists of Homer, Marge, Bart, Lisa, and Maggie. The show is set in the fictional town of Springfield and parodies American culture and society, television, and the human condition."
+    }
+  ],
+  "CrimeMovies": [
+    {
+      "id": 1,
+      "name": "Criminal Justice ",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/bf/Criminal_Justice_India.jpeg",
+      "Genre": "Crime Thriller Legal drama",
+      "reviews": "3000",
+      "rating": "5",
+      "director": "Vishal Furia",
+      "Realeased Date": "5 Aprail 2019",
+      "plot": "The series starts by introducing Aditya Sharma as a cab driver who comes from a middle-class family. He will have plans of meeting his friends at a pub after completing his work, but a foul-mouthed lady sits in his cab and keeps on changing location,and in this process lady Killed by Aditya while during sex "
+    },
+    {
+      "id": 2,
+      "name": "Criminal Justice 2",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c3/CJ-_Behind_Closed_Doors_Poster.jpeg",
+      "Genre": "Crime Thriller Legal drama",
+      "reviews": "2000",
+      "rating": "5",
+      "director": "Vishal Furia",
+      "Realeased Date": "5 April 2022",
+      "plot":"Season 2 of Criminal Justice revolves around Anuradha Chandra (Kirti Kulhari) who stabs her lawyer-husband Bikram Chandra (Jisshu Sengupta) one night. After committing the act, she calls emergency services and slips out of her swanky apartment."
+    },
+    {
+      "id": 3,
+      "name": "Run Baby Run",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e0/Run_Baby_Run_%282023%29.jpg",
+      "Genre": "Crime Thriller Legal drama",
+      "reviews": "3000",
+      "rating": "5",
+      "director": "Jiyen Krishnakumar",
+      "Realeased Date": "3 Feb 2023",
+      "plot":"“Run Baby Run” presents the sad story of two orphan girls who are medical students aspiring to be doctors but are exploited, abused, and murdered by influential and powerful people. The evidence of murder is covered up to label it as a suicide, and the murderer walks free on the lookout for another prey."
+    },
+    {
+      "id": 4,
+      "name":"vikram",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Vikram_2022_poster.jpg",
+      "Genre": "Crime Thriller Legal drama",
+      "reviews": "3000",
+      "rating": "5",
+      "director": "Vishal Furia",
+      "Realeased Date": "3 June 2019",
+      "plot":"A high-octane action film where a special investigator is assigned a case of serial Killings, he finds the case is not what it seems to be and leading down this path is only going to end in a war between everyone involved."
+      
+    },
+    {
+      "id": 5,
+      "name":"AARYA",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/ed/Aarya_poster.jpg",
+      "Genre": "Crime Thriller Legal drama",
+      "reviews": "1000",
+      "rating": "3",
+      "director": "Ram Madhavani",
+      "Realeased Date": "19 April 2021",
+      "plot":"The story of Aarya revolves around Aarya Sareen, who is a caring mother and a loving wife. She is quite naïve however, and is unaware of the illegal business her husband is a part of. Things go bad for their family after Aarya's husband Tej Sareen, a pharma baron, is mysteriously killed."
+    },
+  
+    {
+      "id": 6,
+      "name":"Cadaver",
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/61/Cadaver_Poster.jpg",
+      "Genre": "Crime Thriller Legal drama",
+      "reviews": "3000",
+      "rating": "5",
+      "director": "Anoop Panicker",
+      "Realeased Date": "12 April 2022",
+      "plot":"The film starts off with a mystery man abducting and cruelly murdering a chief heart surgeon Salim Rahman, of a reputed JC hospital in the city. As the case proceeds, we are introduced to Bhadra Thangavel, an expert pathologist, who aids the city's ACP Vishal in handling the case"
+    },
+    {
+      "id": 7,
+      "name":"Raid",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/28/Ajay_Devgn%27s_Raid_poster.jpg",
+      "Genre": "Crime Thriller Legal drama",
+      "reviews": "3000",
+      "rating": "5",
+      "director": "Raj Kumar Gupta",
+      "Realeased Date": "16 March 2018",
+      "plot":"After receiving an anonymous tip, a tax officer leads a raid on the mansion of the most powerful figure in Lucknow, a member of parliament who has been evading income tax for years."
+    },
+    {
+      "id": 8,
+      "name":"Novemeber Story",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/November_Story_Poster.png/375px-November_Story_Poster.png",
+      "Genre": "Crime Thriller Legal drama",
+      "reviews": "6000",
+      "rating": "2",
+      "director": "Indhra Subramanian",
+      "Realeased Date": "20 may 2022",
+      "plot":"A celebrated crime novelist suffering from Alzheimer's is found at a murder scene with no memory of what happened. Now, it is up to his daughter to save him."
+    },
+    {
+      "id": 9,
+      "name":"GoodLuck Jerry",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/98/Good_Luck_Jerry_poster.jpg",
+      "Genre": "Crime Thriller Legal drama",
+      "reviews": "6000",
+      "rating": "3",
+      "director": "Sidharth Sengupta",
+      "Realeased Date": "29 July 2022",
+      "plot":"The desperate need for money drives Jerry into the world of drug peddling. However, when she tries to quit her dangerous job, her situation worsens."
+    },
+    {
+      "id": 10,
+      "name":"The Death of Stalin",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/November_Story_Poster.png/375px-November_Story_Poster.png",
+      "Genre": "Poltical Crime Thriller Legal drama",
+      "reviews": "6000",
+      "rating": "2",
+      "director": "Indhra Subramanian",
+      "Realeased Date": "9 july 2022",
+      "plot":"Moscow, 1953. After being in power for nearly 30 years, Soviet dictator Joseph Vissarionovich Stalin takes ill and quickly dies. Now the members of the Council of Ministers scramble for power."
+    },
+    {
+      "id": 11,
+      "name":"Collar Bomb",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/fa/Collar_Bomb_%282021_film%29.jpg",
+      "Genre": "Thriller Legal drama",
+      "reviews": "6000",
+      "rating": "2",
+      "director": "Dnyanesh Zoting",
+      "Realeased Date": "28 may 2017",
+      "plot":"A glorified cop's life is thrown into chaos as he is forced to commit a series of crimes before a suicide bomber blows up a school. As he races against time, he's confronted by an evil that is hell-bent on striking raw, primal terror."
+    },
+    {
+      "id": 12,
+      "name":"Kings Man",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/Kingsman_The_Golden_Circle.png",
+      "Genre": "Crime Thriller Legal drama",
+      "reviews": "6000",
+      "rating": "2",
+      "director": "Matthew Vaughn",
+      "Realeased Date": "22 may 2017",
+      "plot":"During the early days of the 20th century, a powerful group wants to plunge the world into war. An independent intelligence agency must work relentlessly in the shadows to foil their sinister plans."
+    },
+    {
+      "id": 13,
+      "name":"Big Mouth",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/bb/Big_Mouth_%28South_Korean_TV_series%29.jpg",
+      "Genre": "HardBoilde Crime Thriller Legal drama",
+      "reviews": "3000",
+      "rating": "4",
+      "director": "Lim Tae-woo",
+      "Realeased Date": "29 July 2022",
+      "plot":"In his first drama role in three years, superstar Lee Jong-suk plays Park Chang-ho, the titular “Big Mouth”, who begins the story as a lawyer with a measly 10 per cent win rate in court, and becomes a criminal kingpin behind bars after being falsely imprisoned as the legendary con man “Big Mouse"
+    },
+    {
+      "id": 14,
+      "name":"Sketch",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/02/Sketch_%282018_TV_series%29-poster.jpg",
+      "Genre": "Action Fantasy Thriller Legal drama",
+      "reviews": "3000",
+      "rating": "4",
+      "director": "Lim Tae-woo",
+      "Realeased Date": "14 July 2018",
+      "plot":"The plot revolves around an ace detective, Kang Dong-soo (Jung Ji-hoon), and a female detective, Yoo Shi-hyun (Lee Sun-bin), who can sketch out the future as they try to capture a serial killer"
+    },
+    {
+      "id": 15,
+      "name":"Tokyo Revenger",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/b1/Tokyo_Revengers_volume_1_cover.jpg",
+      "Genre": "Action Sceience thriller ",
+      "reviews": "3000",
+      "rating": "4",
+      "director": "Koichi Hatsumi",
+      "Realeased Date": "12 April 2021",
+      "plot":"Tokyo Revengers: With Griffin Puatu, Darren O'Hare, Tatsuhisa Suzuki, Yu Hayashi. Hanagaki Takemichi lives an unsatisfying life right up until his death."
+    }
+  ]
+}
