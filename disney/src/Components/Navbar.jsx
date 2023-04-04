@@ -15,7 +15,7 @@ const Navbar = () => {
           />
           <Box className={"navBarLinks"}>
             Tv
-            <p className="dropdown">
+            <p className="dropdown" style={{zIndex:2}}>
               <p className="ul_li">
                 <p className="li_li">StarPlus</p>
                 <br />
@@ -32,7 +32,7 @@ const Navbar = () => {
           </Box>
           <Box className={"navBarLinks"}>
             Movies
-            <p className="dropdown">
+            <p className="dropdown" style={{zIndex:2}}>
               <p className="ul_li">
                 <p className="li_li">Hindi</p>
                 <br />
@@ -49,7 +49,7 @@ const Navbar = () => {
           </Box>
           <Box className={"navBarLinks"}>
             Sports{" "}
-            <p className="dropdown">
+            <p className="dropdown" style={{zIndex:2}}>
               <p className="ul_li">
                 <p className="li_li">StarPlus</p>
                 <br />
@@ -66,7 +66,7 @@ const Navbar = () => {
           </Box>
           <Box className={"navBarLinks"}>
             Disney+
-            <p className="dropdown">
+            <p className="dropdown" style={{zIndex:2}}>
               <p className="ul_li">
                 <p className="li_li">StarPlus</p>
                 <br />
