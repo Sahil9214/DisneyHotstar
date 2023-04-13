@@ -5,19 +5,27 @@ import { Image } from "@chakra-ui/react";
 // Import Swiper styles
 import "swiper/css";
 import "swiper/css/pagination";
-import { CrimeMoviesDataAPI } from "../../Redux/Sliders/action";
+
 // import required modules
 import { Pagination } from "swiper";
 import "../../CSS/Slider1.css";
 import { useSelector, useDispatch } from "react-redux";
+import axios from "axios";
 
 export default function Slider11() {
-  const dispatch = useDispatch();
-  const store = useSelector((store) => store.Movienottomiss);
+  const [crime, setCrime] = useState([]);
 
-  console.log(store);
+  const crimeData = async () => {
+    try {
+      let res = await axios.get(` http://localhost:8080/CrimeMovies`);
+      setCrime(res.data);
+    } catch (err) {
+      console.log(err);
+    }
+  };
+
   useEffect(() => {
-    dispatch(CrimeMoviesDataAPI());
+    crimeData();
   }, []);
 
   return (
@@ -33,7 +41,7 @@ export default function Slider11() {
         modules={[Pagination]}
         className="mySwiper"
       >
-        {store?.crime?.map((el) => {
+        {crime?.map((el) => {
           return (
             <SwiperSlide key={el.id}
               style={{
@@ -58,16 +66,3 @@ export default function Slider11() {
     </>
   );
 }
-//<SwiperSlide
-// style={{
-//     backgroundColor: "#0c111b",
-
-//     margin: "auto",
-//   }}
-// >
-//   <Image
-//     className="combineHover"
-//     height={"300"}
-//     src="https://upload.wikimedia.org/wikipedia/en/9/96/Zootopia_%28movie_poster%29.jpg"
-//   />
-// </SwiperSlide>
