@@ -5,19 +5,27 @@ import { Image } from "@chakra-ui/react";
 // Import Swiper styles
 import "swiper/css";
 import "swiper/css/pagination";
-import { MoviesData } from "../../Redux/Sliders/action";
+import axios from "axios";
 // import required modules
 import { Pagination } from "swiper";
 import "../../CSS/Slider1.css";
-import { useSelector, useDispatch } from "react-redux";
+
 
 export default function Slider10() {
-  const dispatch = useDispatch();
-  const store = useSelector((store) => store.Movienottomiss);
+  
+  const [MoviesNotToMissData, setCrime] = useState([]);
 
+  const Movies = async () => {
+    try {
+      let res = await axios.get(` http://localhost:8080/MoviesNotToMiss`);
+      setCrime(res.data);
+    } catch (err) {
+      console.log(err);
+    }
+  };
 
   useEffect(() => {
-    dispatch(MoviesData());
+Movies()
   }, []);
 
   return (
@@ -33,7 +41,7 @@ export default function Slider10() {
         modules={[Pagination]}
         className="mySwiper"
       >
-        {store?.MoviesNotToMissData?.map((el) => {
+        {MoviesNotToMissData?.map((el) => {
           return (
             <SwiperSlide key={el.id}
               style={{
