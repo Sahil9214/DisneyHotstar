@@ -1,0 +1,166 @@
+.MarvelComics {
+  display: flex;
+  justify-content: space-around;
+}
+.marvel_text {
+  color: #fff;
+  font-weight: 700;
+  font-family: "Lobster Two", cursive;
+  font-size: 26px;
+  color: orange;
+  font-weight: 800;
+  font-family: "Lobster Two", cursive;
+  position: relative;
+
+  text-transform: uppercase;
+  font-size: 2.6em;
+  letter-spacing: 4px;
+  overflow: hidden;
+  background: linear-gradient(90deg, rgb(164, 133, 255), orange, #000);
+  background-repeat: no-repeat;
+  background-size: 80%;
+  /* animation: animate 3s linear infinite; */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0);
+
+  background-color: orange;
+}
+.marvel_video {
+  height: 600px;
+  width: 100%;
+}
+.marvel_desc {
+  font-size: 22px;
+  font-family: 600;
+  font-family: "Lobster Two", cursive;
+  color: #fff;
+}
+.dc_video {
+  height: 600px;
+  width: 100%;
+}
+.marvel_grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 50px;
+  width: 90%;
+  margin: auto;
+ 
+  background-color: #1a202c;
+}
+.superhero_img {
+  width: 300px;
+  justify-content: center;
+  border-radius: 12px;
+  height: 300px;
+}
+.box_superhero_grid {
+  margin: auto;
+  margin-left: 150px;
+}
+.superHeroMainDIv {
+  background-color: rgb(20, 27, 41);
+}
+
+.superhero_img:hover {
+  -webkit-transform: scale(1);
+  -moz-transform: scale(1.0);
+  -ms-transform: scale(1);
+  -o-transform: scale(1);
+  transform: scale(1.1);
+}
+.marvel_box{
+    width: 40%;
+}
+.dc_box{
+    width: 40%;
+}
+.marvel_box_text{
+    width: 50%;
+}
+@media only screen and (max-width: 780px) and (min-width: 320px) {
+  .marvel_grid {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 30px;
+    width: 90%;
+    margin: auto;
+    background-color: #1a202c;
+  }
+  .MarvelComics {
+    flex-direction: column;
+  }
+  .marvel_video {
+    height: 600px;
+    width: 100%;
+  }
+  .dc_video {
+    height: 600px;
+    width: 100%;
+  }
+  .marvel_box{
+    width: 90%;
+    margin: auto;
+
+  }
+ 
+  .dc_box{
+    width: 90%;
+    margin: auto;
+  }
+  .marvel_box_text{
+    width: 90%;
+    margin: auto;
+  }
+  .box_superhero_grid {
+    margin-left: 150px;
+  
+  }
+  .Image_Flex{
+   
+    margin-left: 80px;
+  }
+}
+@media only screen and (max-width: 1024px) and (min-width: 768px) {
+  .marvel_grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    width: 90%;
+    margin: auto;
+    background-color: #1a202c;
+  }
+  .MarvelComics {
+    flex-direction: column;
+  }
+  .marvel_video {
+    height: 600px;
+    width: 100%;
+  }
+  .dc_video {
+    height: 600px;
+    width: 100%;
+  }
+  .marvel_box_text{
+    width: 90%;
+    margin: auto;
+  }
+  .marvel_box{
+    width: 90%;
+    margin: auto;
+
+  }
+ 
+  .dc_box{
+    width: 90%;
+    margin: auto;
+  }
+  .box_superhero_grid {
+    margin-left: 80px;
+  
+  }
+  .Image_Flex{
+   
+    margin-left: 80px;
+  }
+}
